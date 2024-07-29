@@ -1,0 +1,36 @@
+.h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+
+.phoneBook {
+  position: absolute;
+  border-radius: 16px;
+  z-index: 1;
+  width: 450px;
+  right: 240px;
+}
+.stepList {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  box-shadow: -4px 4px 16px 0px lightgrey;
+  background-color: lightgrey;
+  padding: 20px;
+  border-radius: 16px;
+  width: 400px;
+}
+.list {
+  margin-left: 20px;
+}
+.link {
+  text-decoration: underline;
+}
+.textHeader {
+  margin-bottom: 16px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+

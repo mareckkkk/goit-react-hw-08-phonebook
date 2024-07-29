@@ -1,0 +1,26 @@
+.contactform{
+ height: 250px;
+ width: 250px;
+ border: solid black 1px;
+ border-radius: 10%;
+ padding: 10px;
+}
+.label {
+  border: solid black 1px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 16px;
+}
+.add_button {
+  border: 0;
+  border-radius: 6px;
+  color: aliceblue;
+  font-size: 100%;
+  background-color: rgb(16 185 129);
+  padding: 5px 8px;
+}
+.add_button:hover {
+  background-color: rgb(34 197 94);
+  box-shadow: #16a34a 0 1px 2px 0;
+  cursor: pointer;
+}
