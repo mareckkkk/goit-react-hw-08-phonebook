@@ -47,6 +47,7 @@ const ContactForm = () => {
             title="Phone number must be digits and can contain spaces, dashes, parentheses and can start with +"
             required
             autoComplete="true"
+            className={styles.input}
           />
         </label>
         <button type="submit" className={styles.add_button}>
